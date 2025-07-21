@@ -1,0 +1,11 @@
+{
+  "name": "twitter-top5-trends",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "apify": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
