@@ -1,0 +1,7 @@
+{
+  "name": "twitter-top5-trends",
+  "version": "1.0.0",
+  "buildTag": "latest",
+  "env": null,
+  "main": "main.js"
+}
